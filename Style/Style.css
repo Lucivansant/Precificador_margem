@@ -1,0 +1,70 @@
+header {
+    background-color: rgba(0, 0, 0, 0.781);
+    height: 50px;
+    box-shadow: rgb(50 50 93 / 25%) 0px 6px 12px -2px, rgb(0 0 0 / 30%) 0px 3px 7px -3px;
+}
+
+#header {
+    text-align: center;
+    color: white;
+}
+
+#logo {
+    line-height: 50px;
+}
+
+#sec-geral {
+    height: 100vh;
+
+}
+
+#table-input {
+    margin-top: 25px;
+}
+
+#painel-result {
+    margin-top: 25px;
+}
+
+#table-result {
+    border-left: solid 1px rgba(0, 0, 0, 0.473);
+    height: 100vh;
+
+}
+
+#separador {
+    color: rgba(0, 0, 0, 0.527);
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#Valor-produto,
+#Frete-produto,
+#Margem,
+#Taxa,
+#input_custo_fixo,
+#input_margem,
+#input_quantidade {
+    margin-bottom: 15px;
+    border: solid 1px rgba(0, 0, 0, 0.425);
+}
+
+#btn {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#Result-calc {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#result_projecao {
+
+    display: block;
+}
+
+#img {
+    text-align: center;
+}

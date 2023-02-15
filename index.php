@@ -1,15 +1,3 @@
-<?php
-//print_r($_POST)
-
-
-
-
-
-
-
-
-?>
-
 <!doctype html>
 <html lang="pt-br">
 
